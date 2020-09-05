@@ -18,3 +18,20 @@ body{
 }.nav-link{
     text-shadow: 1px 0px 1px black ;
 }
+.fa-facebook{
+    color: #3b5998;
+    }
+    .fa-twitter{
+    color: #00aced;
+    }
+    .fa-google-plus-g{
+    color: #dd4b39;
+    }
+    .fa-instagram{
+        color: #bb0000;
+    
+    }
+    .fa-facebook, .fa-twitter,.fa-google-plus-g, .fa-instagram{
+    font-size: 1.5rem;
+    margin:.5rem;
+    }
